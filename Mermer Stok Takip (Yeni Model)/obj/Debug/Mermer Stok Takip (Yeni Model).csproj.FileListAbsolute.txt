@@ -1,0 +1,11 @@
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Mermer Stok Takip (Yeni Model)\Mermer Stok Takip (Yeni Model)\bin\Debug\Mermer Stok Takip (Yeni Model).exe.config
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Mermer Stok Takip (Yeni Model)\Mermer Stok Takip (Yeni Model)\bin\Debug\Mermer Stok Takip (Yeni Model).exe
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Mermer Stok Takip (Yeni Model)\Mermer Stok Takip (Yeni Model)\bin\Debug\Mermer Stok Takip (Yeni Model).pdb
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Mermer Stok Takip (Yeni Model)\Mermer Stok Takip (Yeni Model)\obj\Debug\Mermer Stok Takip (Yeni Model).csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Mermer Stok Takip (Yeni Model)\Mermer Stok Takip (Yeni Model)\obj\Debug\Mermer_Stok_Takip__Yeni_Model_.Form1.resources
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Mermer Stok Takip (Yeni Model)\Mermer Stok Takip (Yeni Model)\obj\Debug\Mermer_Stok_Takip__Yeni_Model_.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Mermer Stok Takip (Yeni Model)\Mermer Stok Takip (Yeni Model)\obj\Debug\Mermer Stok Takip (Yeni Model).csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Mermer Stok Takip (Yeni Model)\Mermer Stok Takip (Yeni Model)\obj\Debug\Mermer Stok Takip (Yeni Model).exe
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Mermer Stok Takip (Yeni Model)\Mermer Stok Takip (Yeni Model)\obj\Debug\Mermer Stok Takip (Yeni Model).pdb
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Mermer Stok Takip (Yeni Model)\Mermer Stok Takip (Yeni Model)\obj\Debug\Mermer_Stok_Takip__Yeni_Model_.Form2.resources
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Mermer Stok Takip (Yeni Model)\Mermer Stok Takip (Yeni Model)\bin\Debug\Properties\bilgi.mdb
