@@ -48,10 +48,13 @@ namespace Mermer_Stok_Takip__Yeni_Model_
             comboBox1.Text = "";
             gvMalzemeler.Refresh();
 
+            this.verilerTableAdapter.Fill(this.bilgiDataSet1.veriler);
         }
 
         private void Form2_Load(object sender, EventArgs e)
         {
+            // TODO: This line of code loads data into the 'bilgiDataSet2.veriler' table. You can move, or remove it, as needed.
+            this.verilerTableAdapter1.Fill(this.bilgiDataSet2.veriler);
             // TODO: This line of code loads data into the 'bilgiDataSet1.veriler' table. You can move, or remove it, as needed.
             this.verilerTableAdapter.Fill(this.bilgiDataSet1.veriler);
 
